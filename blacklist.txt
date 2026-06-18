@@ -44,6 +44,7 @@ minecraft:salmon@#lava
 minecraft:pufferfish@#lava
 minecraft:tropical_fish@#lava
 minecraft:chicken@#lava
+minecraft:axolotl@#lava
 minecraft:spider@#fire
 minecraft:zombie@#fire
 minecraft:skeleton@#fire
