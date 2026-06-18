@@ -103,3 +103,24 @@ minecraft:ravager@#drowning
 minecraft:iron_golem@#drowning
 minecraft:glow_squid@#drowning
 minecraft:slime@#drowning
+
+; --- CONTACT KILLS (Cactus/Dripstone) ---
+minecraft:guardian@#contact
+minecraft:cod@#contact
+minecraft:salmon@#contact
+minecraft:zombie@#contact
+minecraft:skeleton@#contact
+minecraft:creeper@#contact
+minecraft:spider@#contact
+minecraft:pillager@#contact
+minecraft:witch@#contact
+minecraft:silverfish@#contact
+minecraft:cave_spider@#contact
+minecraft:slime@#contact
+minecraft:magma_cube@#contact
+minecraft:zombified_piglin@#contact
+minecraft:enderman@#contact
+minecraft:blaze@#contact
+minecraft:wither_skeleton@#contact
+minecraft:wandering_trader@#contact
+minecraft:snow_golem@#contact
