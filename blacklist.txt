@@ -124,3 +124,4 @@ minecraft:blaze@#contact
 minecraft:wither_skeleton@#contact
 minecraft:wandering_trader@#contact
 minecraft:snow_golem@#contact
+minecraft:glow_squid@#contact
