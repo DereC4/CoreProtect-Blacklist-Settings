@@ -6,6 +6,20 @@ DerexXD
 #bonemeal
 #gravity
 
+; --- These have ALL deaths disabled ---
+minecraft:glow_squid
+minecraft:squid
+minecraft:cod
+minecraft:salmon
+minecraft:pufferfish
+minecraft:tropical_fish
+minecraft:silverfish
+minecraft:endermite
+minecraft:phantom
+minecraft:magma_cube
+minecraft:slime
+
+
 ; --- FALL DAMAGE (Drop Farms) ---
 minecraft:glow_squid@#fall
 minecraft:slime@#fall
