@@ -6,20 +6,9 @@ DerexXD
 #bonemeal
 #gravity
 
-; --- These have ALL actions/deaths disabled ---
-minecraft:glow_squid
-minecraft:squid
-minecraft:cod
-minecraft:salmon
-minecraft:pufferfish
-minecraft:tropical_fish
-minecraft:silverfish
-minecraft:endermite
-minecraft:phantom
-minecraft:magma_cube
-minecraft:slime
-
 ; --- FALL DAMAGE (Drop Farms) ---
+minecraft:glow_squid@#fall
+minecraft:slime@#fall
 minecraft:spider@#fall
 minecraft:zombie@#fall
 minecraft:skeleton@#fall
@@ -43,9 +32,17 @@ minecraft:husk@#lava
 minecraft:stray@#lava
 minecraft:pillager@#lava
 minecraft:cave_spider@#lava
+minecraft:glow_squid@#lava
+minecraft:slime@#lava
+minecraft:magma_cube@#lava
+minecraft:silverfish@#lava
 minecraft:evoker@#lava
 minecraft:vindicator@#lava
 minecraft:ravager@#lava
+minecraft:cod@#lava
+minecraft:salmon@#lava
+minecraft:pufferfish@#lava
+minecraft:tropical_fish@#lava
 minecraft:chicken@#lava
 minecraft:axolotl@#lava
 minecraft:spider@#fire
@@ -58,13 +55,18 @@ minecraft:pillager@#fire
 
 ; --- CAMPFIRE KILLS ---
 minecraft:guardian@#campfire
+minecraft:cod@#campfire
+minecraft:salmon@#campfire
 minecraft:zombie@#campfire
 minecraft:skeleton@#campfire
 minecraft:creeper@#campfire
 minecraft:spider@#campfire
 minecraft:pillager@#campfire
 minecraft:witch@#campfire
+minecraft:silverfish@#campfire
 minecraft:cave_spider@#campfire
+minecraft:slime@#campfire
+minecraft:magma_cube@#campfire
 minecraft:zombified_piglin@#campfire
 minecraft:enderman@#campfire
 minecraft:blaze@#campfire
@@ -87,7 +89,7 @@ minecraft:stray@#wither_effect
 
 minecraft:enderman@#iron_golem
 
-; --- SUFFOCATION KILLS ---
+; Suffocation
 minecraft:iron_golem@#suffocation
 minecraft:zombie@#suffocation
 minecraft:skeleton@#suffocation
@@ -96,10 +98,15 @@ minecraft:spider@#suffocation
 minecraft:enderman@#suffocation
 minecraft:witch@#suffocation
 minecraft:drowned@#suffocation
+minecraft:salmon@#suffocation
+minecraft:cod@#suffocation
+minecraft:pufferfish@#suffocation
+minecraft:tropical_fish@#suffocation
 minecraft:pillager@#suffocation
 minecraft:evoker@#suffocation
 minecraft:vindicator@#suffocation
 minecraft:ravager@#suffocation
+minecraft:witch@#suffocation
 
 ; --- DROWNING KILLS ---
 minecraft:zombie@#drowning
@@ -116,19 +123,27 @@ minecraft:evoker@#drowning
 minecraft:vindicator@#drowning
 minecraft:ravager@#drowning
 minecraft:iron_golem@#drowning
+minecraft:glow_squid@#drowning
+minecraft:slime@#drowning
 
 ; --- CONTACT KILLS (Cactus/Dripstone) ---
 minecraft:guardian@#contact
+minecraft:cod@#contact
+minecraft:salmon@#contact
 minecraft:zombie@#contact
 minecraft:skeleton@#contact
 minecraft:creeper@#contact
 minecraft:spider@#contact
 minecraft:pillager@#contact
 minecraft:witch@#contact
+minecraft:silverfish@#contact
 minecraft:cave_spider@#contact
+minecraft:slime@#contact
+minecraft:magma_cube@#contact
 minecraft:zombified_piglin@#contact
 minecraft:enderman@#contact
 minecraft:blaze@#contact
 minecraft:wither_skeleton@#contact
 minecraft:wandering_trader@#contact
 minecraft:snow_golem@#contact
+minecraft:glow_squid@#contact
