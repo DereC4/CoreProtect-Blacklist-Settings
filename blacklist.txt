@@ -23,13 +23,33 @@ minecraft:pillager@#fall
 minecraft:cave_spider@#fall
 
 ; --- LAVA & FIRE (Iron/Mob Farms) ---
-minecraft:iron_golem@#lava
-minecraft:bat@#lava
-minecraft:bat@#fire
-minecraft:phantom@#fire
-minecraft:zombie@#lava
-minecraft:skeleton@#lava
-minecraft:creeper@#lava
+minecraft:spider@#lava
+minecraft:enderman@#lava
+minecraft:witch@#lava
+minecraft:zombie_villager@#lava
+minecraft:drowned@#lava
+minecraft:husk@#lava
+minecraft:stray@#lava
+minecraft:pillager@#lava
+minecraft:cave_spider@#lava
+minecraft:glow_squid@#lava
+minecraft:slime@#lava
+minecraft:magma_cube@#lava
+minecraft:silverfish@#lava
+minecraft:evoker@#lava
+minecraft:vindicator@#lava
+minecraft:ravager@#lava
+minecraft:cod@#lava
+minecraft:salmon@#lava
+minecraft:pufferfish@#lava
+minecraft:tropical_fish@#lava
+minecraft:spider@#fire
+minecraft:zombie@#fire
+minecraft:skeleton@#fire
+minecraft:creeper@#fire
+minecraft:enderman@#fire
+minecraft:witch@#fire
+minecraft:pillager@#fire
 
 ; --- CAMPFIRE KILLS ---
 minecraft:guardian@#campfire
