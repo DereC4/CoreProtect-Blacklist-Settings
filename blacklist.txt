@@ -147,3 +147,24 @@ minecraft:wither_skeleton@#contact
 minecraft:wandering_trader@#contact
 minecraft:snow_golem@#contact
 minecraft:glow_squid@#contact
+
+; --- VOID DAMAGE (End/Perimeter Farms) ---
+minecraft:enderman@#void
+minecraft:zombie@#void
+minecraft:skeleton@#void
+minecraft:creeper@#void
+minecraft:spider@#void
+minecraft:witch@#void
+minecraft:zombie_villager@#void
+minecraft:drowned@#void
+minecraft:husk@#void
+minecraft:stray@#void
+minecraft:pillager@#void
+minecraft:cave_spider@#void
+minecraft:glow_squid@#void
+minecraft:slime@#void
+minecraft:magma_cube@#void
+minecraft:silverfish@#void
+minecraft:evoker@#void
+minecraft:vindicator@#void
+minecraft:ravager@#void
